@@ -1,0 +1,3 @@
+/usr/pkg/bin/feh --bg-scale --randomize ~/pictures/backdrops/* &
+/usr/pkg/bin/alacritty &
+/usr/pkg/bin/conky&
